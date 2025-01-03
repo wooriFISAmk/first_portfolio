@@ -39,12 +39,12 @@
 이현정 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nanahj)
 ---
 * 정파란
-  1. 첫인상:
-  2. 식사 후 인상:
+  1. 첫인상:조용해보이셨다
+  2. 식사 후 인상: 이름이 예쁘심
 * 장수현
-  1. 첫인상:
-  2. 식사 후 인상:
+  1. 첫인상: E일것 같으셨다
+  2. 식사 후 인상:리액션을 잘해주심
 * 임하은
-  1. 첫인상:
-  2. 식사 후 인상:
+  1. 첫인상:고수일것 같으셨다
+  2. 식사 후 인상:귀여우심
 
