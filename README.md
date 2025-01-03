@@ -27,14 +27,14 @@
 임하은 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kodms08)
 ---
 * 정파란
-  1. 첫인상:
-  2. 식사 후 인상:
+  1. 첫인상: 조용한 스타일인줄 알았다.
+  2. 식사 후 인상: 생각보다 말을 잘하셔서 놀랐다.
 * 장수현
-  1. 첫인상:
-  2. 식사 후 인상:
+  1. 첫인상: 새침할 거 같았다.
+  2. 식사 후 인상: 첫째 같다고 생각했는데 맞았다.
 * 이현정
-  1. 첫인상:
-  2. 식사 후 인상:
+  1. 첫인상: 어려보였다.
+  2. 식사 후 인상: 나랑 비슷해서 다행이었다.
 
 이현정 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nanahj)
 ---
